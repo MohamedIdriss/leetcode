@@ -5,6 +5,4 @@ class Solution:
             if num in seen:
                 return True
             seen.add(num)
-            #Test
-            ss = list()
         return False
